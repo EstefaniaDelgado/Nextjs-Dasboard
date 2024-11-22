@@ -14,7 +14,7 @@ export default function RootLayout({
         </header>
         
         {children}
-        <footer className='py-5 flex justify-center bg-blue-300'>Hecho con ♥ por la gente de Vercel</footer>
+        <footer className='py-5 flex justify-center bg-blue-300'>Aprendiendo NextJs 😵</footer>
         
         </body>
 
